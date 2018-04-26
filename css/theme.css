@@ -147,6 +147,9 @@ body [class^="icon-"], body [class*=" icon-"] {
 	color: rgba(0,0,0,0.3);
 	text-shadow: 0 0 1px #eee, 0 0 0 #000, 0 0 1px #fff
 }
+.b-w{
+    border-top-color:#fff !important; border-bottom-color:#fff !important
+}
 .module {
 	background: #fff;
 	-webkit-border-radius: 3px;
