@@ -160,7 +160,7 @@ body [class^="icon-"], body [class*=" icon-"] {
 	margin-bottom: 30px
 }
 .align-center {
-	text-align: center
+	text-align: center!important
 }
 .align-right {
 	text-align: right!important
