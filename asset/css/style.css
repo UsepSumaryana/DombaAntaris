@@ -1,0 +1,13 @@
+.ha {
+	flex-direction: inherit !important;
+	width: 500px;
+}
+
+.kotak:focus{
+	border: 1px solid #00a65a;
+}
+.logo-lg{
+	font-family: century gothic;
+	font-size: 18px;
+	color: white;
+}
