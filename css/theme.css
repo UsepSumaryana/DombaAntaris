@@ -84,6 +84,7 @@ blockquote small::before {
 }
 .footer {
 	color: #999;
+    background-color: #f3f3f3;
 	padding: 30px 0 30px
 }
 .footer .nav li {
