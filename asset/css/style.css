@@ -102,3 +102,8 @@ link-active{
 .vv{
     width: 100%;
 }
+.footer {
+	color: #fff!important;
+    background-color: #006064;
+	padding: 24px 0 24px
+}
